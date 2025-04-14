@@ -28,7 +28,7 @@ If you don't have these tools, the script will install them for you.
 
 1. **Clone the repository** (or download the script).
    ```bash
-   https://github.com/r4sh7n/redirect-hound.git
+   git clone https://github.com/r4sh7n/redirect-hound.git
    cd redirect-hound
    ```
 
